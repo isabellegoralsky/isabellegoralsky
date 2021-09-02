@@ -6,8 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
       webdev projects
 - 📫 How to reach me...
-      Email: isabelle.goralsky@gmail.com
-      Phone #: 6614811085
+      isabelle.goralsky@gmail.com
 
 <!---
 isabellegoralsky/isabellegoralsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
